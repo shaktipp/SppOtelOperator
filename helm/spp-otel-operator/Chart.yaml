@@ -1,0 +1,14 @@
+apiVersion: v2
+name: spp-otel-operator
+version: 0.11.8
+description: SPP OpenTelemetry Operator Created using Helm chart
+type: application
+home: https://opentelemetry.io/
+sources:
+  - https://github.com/open-telemetry/opentelemetry-operator
+maintainers:
+  - name: Shakti
+  - name: Bipasa
+  - name: Suman
+icon: https://raw.githubusercontent.com/cncf/artwork/a718fa97fffec1b9fd14147682e9e3ac0c8817cb/projects/opentelemetry/icon/color/opentelemetry-icon-color.png
+appVersion: 0.56.0
